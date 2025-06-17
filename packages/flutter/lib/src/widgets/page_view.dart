@@ -118,7 +118,7 @@ import 'viewport.dart';
 /// {@end-tool}
 class PageController extends ScrollController {
   /// Creates a page controller.
-  PageController({
+    PageController({
     this.initialPage = 0,
     this.keepPage = true,
     this.viewportFraction = 1.0,
